@@ -1,0 +1,17 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "prosta mod",
+  "main": "mod.js",
+  "scripts": {
+    "dev": "nodemon mod.js"
+  },
+  "author": "Axadxon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
